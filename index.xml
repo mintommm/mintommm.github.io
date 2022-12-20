@@ -9,7 +9,20 @@
       <link>https://mintommm.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 18 Apr 2022 07:47:30 +0000</lastBuildDate><atom:link href="https://mintommm.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 18 Dec 2022 16:00:00 +0000</lastBuildDate><atom:link href="https://mintommm.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test2</title>
+      <link>https://mintommm.github.io/test2/</link>
+      <pubDate>Sun, 18 Dec 2022 16:00:00 +0000</pubDate>
+      
+      <guid>https://mintommm.github.io/test2/</guid>
+      <description>test2
+Hello worldls
+head1 something
+head2 aaaa
+share</description>
+    </item>
+    
     <item>
       <title>Test1</title>
       <link>https://mintommm.github.io/test1/</link>
