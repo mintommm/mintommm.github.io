@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>ExampleSite</title>
-    <link>https://examplesite.com/</link>
-    <description>Recent content on ExampleSite</description>
+    <title>mintommm pages</title>
+    <link>https://mintommm.github.io/</link>
+    <description>Recent content on mintommm pages</description>
     <image>
-      <url>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://mintommm.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://mintommm.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 18 Apr 2022 07:47:30 +0000</lastBuildDate><atom:link href="https://examplesite.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 18 Apr 2022 07:47:30 +0000</lastBuildDate><atom:link href="https://mintommm.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test1</title>
-      <link>https://examplesite.com/test1/</link>
+      <link>https://mintommm.github.io/test1/</link>
       <pubDate>Mon, 18 Apr 2022 07:47:30 +0000</pubDate>
       
-      <guid>https://examplesite.com/test1/</guid>
+      <guid>https://mintommm.github.io/test1/</guid>
       <description>Hello world
 head1 something
 head2 aaaa
@@ -25,10 +25,10 @@ wrote test</description>
     
     <item>
       <title>My 1st post</title>
-      <link>https://examplesite.com/test2/</link>
+      <link>https://mintommm.github.io/test2/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
-      <guid>https://examplesite.com/test2/</guid>
+      <guid>https://mintommm.github.io/test2/</guid>
       <description>Desc Text.</description>
     </item>
     
