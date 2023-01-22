@@ -11,6 +11,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Mon, 18 Apr 2022 07:47:30 +0000</lastBuildDate><atom:link href="https://mintommm.github.io/tags/first/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>My 1st post</title>
+      <link>https://mintommm.github.io/test2/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>https://mintommm.github.io/test2/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+    <item>
       <title>Test1</title>
       <link>https://mintommm.github.io/test1/</link>
       <pubDate>Mon, 18 Apr 2022 07:47:30 +0000</pubDate>
@@ -21,15 +30,6 @@ head1 something
 head2 aaaa
 share
 wrote test</description>
-    </item>
-    
-    <item>
-      <title>My 1st post</title>
-      <link>https://mintommm.github.io/test2/</link>
-      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      
-      <guid>https://mintommm.github.io/test2/</guid>
-      <description>Desc Text.</description>
     </item>
     
   </channel>
