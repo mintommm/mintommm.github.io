@@ -9,20 +9,7 @@
       <link>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 18 Dec 2022 16:00:00 +0000</lastBuildDate><atom:link href="https://examplesite.com/tags/first/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Test2</title>
-      <link>https://examplesite.com/test2/</link>
-      <pubDate>Sun, 18 Dec 2022 16:00:00 +0000</pubDate>
-      
-      <guid>https://examplesite.com/test2/</guid>
-      <description>test2
-Hello worldls
-head1 something
-head2 aaaa
-share</description>
-    </item>
-    
+    <lastBuildDate>Mon, 18 Apr 2022 07:47:30 +0000</lastBuildDate><atom:link href="https://examplesite.com/tags/first/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test1</title>
       <link>https://examplesite.com/test1/</link>
@@ -34,6 +21,15 @@ head1 something
 head2 aaaa
 share
 wrote test</description>
+    </item>
+    
+    <item>
+      <title>My 1st post</title>
+      <link>https://examplesite.com/test2/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>https://examplesite.com/test2/</guid>
+      <description>Desc Text.</description>
     </item>
     
   </channel>
