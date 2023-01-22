@@ -2,23 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://mintommm.github.io/tags/first/</loc>
+    <loc>https://examplesite.com/</loc>
     <lastmod>2022-12-18T16:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://mintommm.github.io/</loc>
+    <loc>https://examplesite.com/tags/first/</loc>
     <lastmod>2022-12-18T16:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://mintommm.github.io/tags/</loc>
+    <loc>https://examplesite.com/tags/</loc>
     <lastmod>2022-12-18T16:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://mintommm.github.io/test2/</loc>
+    <loc>https://examplesite.com/test2/</loc>
     <lastmod>2022-12-18T16:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://mintommm.github.io/test1/</loc>
+    <loc>https://examplesite.com/test1/</loc>
     <lastmod>2022-04-18T07:47:30+00:00</lastmod>
   </url><url>
-    <loc>https://mintommm.github.io/archives/</loc>
+    <loc>https://examplesite.com/archives/</loc>
   </url><url>
-    <loc>https://mintommm.github.io/categories/</loc>
+    <loc>https://examplesite.com/categories/</loc>
   </url>
 </urlset>
