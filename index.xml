@@ -1,15 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>mintommm pages</title>
+    <title>mintommm.github.io</title>
     <link>https://mintommm.github.io/</link>
-    <description>Recent content on mintommm pages</description>
+    <description>Recent content on mintommm.github.io</description>
     <image>
       <url>https://mintommm.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://mintommm.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 18 Apr 2022 07:47:30 +0000</lastBuildDate><atom:link href="https://mintommm.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 22 Jan 2023 12:30:55 +0000</lastBuildDate><atom:link href="https://mintommm.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>xxx</title>
+      <link>https://mintommm.github.io/posts/test3/</link>
+      <pubDate>Sun, 22 Jan 2023 12:30:55 +0000</pubDate>
+      
+      <guid>https://mintommm.github.io/posts/test3/</guid>
+      <description>1. はじめに xxxx
+x. Markdown CheetSheet Text Format Italic（斜体） Italic（斜体）
+Emphasis（強調） Emphasis（強調）
+Strikethrough（取り消し線）
+This is inline.
+List text test test text test test text test test Horizontal rules Blockquotes（引用） This is Blockquotes
+Links（参照） yonehub blog
+Images（画像） Tables（表） id name date 1 test 2019-01-01 2 test 2019-01-02 3 test 2019-01-03 </description>
+    </item>
+    
     <item>
       <title>My 1st post</title>
       <link>https://mintommm.github.io/posts/test2/</link>
@@ -32,6 +48,15 @@ share
 wrote test</description>
     </item>
     
+    
+    <item>
+      <title>Profile</title>
+      <link>https://mintommm.github.io/profile/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mintommm.github.io/profile/</guid>
+      <description>Work in progress</description>
+    </item>
     
   </channel>
 </rss>
