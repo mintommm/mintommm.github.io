@@ -9,23 +9,7 @@
       <link>https://mintommm.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 22 Jan 2023 12:30:55 +0000</lastBuildDate><atom:link href="https://mintommm.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>xxx</title>
-      <link>https://mintommm.github.io/posts/test3/</link>
-      <pubDate>Sun, 22 Jan 2023 12:30:55 +0000</pubDate>
-      
-      <guid>https://mintommm.github.io/posts/test3/</guid>
-      <description>1. はじめに xxxx
-x. Markdown CheetSheet Text Format Italic（斜体） Italic（斜体）
-Emphasis（強調） Emphasis（強調）
-Strikethrough（取り消し線）
-This is inline.
-List text test test text test test text test test Horizontal rules Blockquotes（引用） This is Blockquotes
-Links（参照） yonehub blog
-Images（画像） Tables（表） id name date 1 test 2019-01-01 2 test 2019-01-02 3 test 2019-01-03 </description>
-    </item>
-    
+    <lastBuildDate>Mon, 18 Apr 2022 07:47:30 +0000</lastBuildDate><atom:link href="https://mintommm.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My 1st post</title>
       <link>https://mintommm.github.io/posts/test2/</link>
