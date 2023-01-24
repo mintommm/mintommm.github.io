@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>test page on mintommm.github.io</title>
+    <link>https://mintommm.github.io/categories/test-page/</link>
+    <description>Recent content in test page on mintommm.github.io</description>
+    <image>
+      <url>https://mintommm.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://mintommm.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 18 Apr 2022 07:47:30 +0000</lastBuildDate><atom:link href="https://mintommm.github.io/categories/test-page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My 1st post</title>
+      <link>https://mintommm.github.io/posts/test2/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>https://mintommm.github.io/posts/test2/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+    <item>
+      <title>Test1</title>
+      <link>https://mintommm.github.io/posts/test1/</link>
+      <pubDate>Mon, 18 Apr 2022 07:47:30 +0000</pubDate>
+      
+      <guid>https://mintommm.github.io/posts/test1/</guid>
+      <description>Hello world
+head1 something
+head2 aaaa
+share
+wrote test</description>
+    </item>
+    
+  </channel>
+</rss>
