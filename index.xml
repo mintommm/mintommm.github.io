@@ -9,27 +9,18 @@
       <link>https://mintommm.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 18 Apr 2022 07:47:30 +0000</lastBuildDate><atom:link href="https://mintommm.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 28 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mintommm.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My 1st post</title>
-      <link>https://mintommm.github.io/posts/test2/</link>
-      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      <title>ブログを立ち上げた</title>
+      <link>https://mintommm.github.io/posts/230128_created-this-blog/</link>
+      <pubDate>Sat, 28 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://mintommm.github.io/posts/test2/</guid>
-      <description>Desc Text.</description>
-    </item>
-    
-    <item>
-      <title>Test1</title>
-      <link>https://mintommm.github.io/posts/test1/</link>
-      <pubDate>Mon, 18 Apr 2022 07:47:30 +0000</pubDate>
-      
-      <guid>https://mintommm.github.io/posts/test1/</guid>
-      <description>Hello world
-head1 something
-head2 aaaa
-share
-wrote test</description>
+      <guid>https://mintommm.github.io/posts/230128_created-this-blog/</guid>
+      <description>このブログを立ち上げた。
+記事をMarkdownで管理したかったので、Github Pagesを使って手軽に公開することにした。
+とりあえずは公開するところまで。
+Todo
+プライバシーポリシーなどの整理 プロフィールをもうちょっと充実させる テーマのカスタマイズとライセンス表記について調べる favicon類を作る 独自ドメインにする </description>
     </item>
     
     
@@ -39,8 +30,16 @@ wrote test</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mintommm.github.io/profile/</guid>
-      <description>Work in progress
-好きなもの 寿司 嫌いなもの タバコ </description>
+      <description>Bio Terry K Like 寿司 Dislike タバコ Accounts Discord : mintommm#3090 Twitter : https://twitter.com/mintommm Github: https://github.com/mintommm Zenn : https://zenn.dev/mintommm Linkedin : https://www.linkedin.com/in/terrykurumatani/ Nintendo Switch : SW-1259-5233-1813 </description>
+    </item>
+    
+    <item>
+      <title>Terms</title>
+      <link>https://mintommm.github.io/terms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mintommm.github.io/terms/</guid>
+      <description>Disclamer 組織を代表しない：このブログの内容は個人の見解であり所属組織を代表しません 内容の保証はしない：内容が正確であることに努めますが正確さを保証しません サイト外のことに責任を負わない：リンク先の内容には責任を負いません Cookieの使用について アクセス解析や広告配信などのためにCookieを使用しています これらのCookieによって個人の識別はできません CookieをOFFにしても閲覧に問題はありません 著作権について 無断転載を禁止します 著作権の侵害は意図していないので問題があれば対応のためにご連絡ください Contacts 問い合わせフォーム</description>
     </item>
     
   </channel>
