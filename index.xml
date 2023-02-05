@@ -9,7 +9,16 @@
       <link>https://tryk.dev/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 29 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://tryk.dev/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 05 Feb 2023 05:25:10 +0000</lastBuildDate><atom:link href="https://tryk.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo&#43;PaperModのCSSをカスタマイズする</title>
+      <link>https://tryk.dev/posts/papermod-css-customize/</link>
+      <pubDate>Sun, 05 Feb 2023 05:25:10 +0000</pubDate>
+      
+      <guid>https://tryk.dev/posts/papermod-css-customize/</guid>
+      <description>CSSの変更方法 PaperModではthemes/PaperMod/assets/css/に基本的なCSSが配置されている これらをファイル単位でオーバーライドすることによって実現する extendedフォルダを使う1ようなFAQがあるが、今回は既存のスタイル指定を変更したいので、Hugoのルートにassets/cssフォルダを作って、その中に既存のCSSファイルをコピーし、コピーで作られたCSSファイルを編集することで行った 見出しの先頭に#をつける 記事内の要素はcommon/post-single.cssに記載されていたので以下を追記した .post-content h2:before { content: &amp;#34;## &amp;#34;; } .post-content h3:before { content: &amp;#34;### &amp;#34;; } 見出しのmargin調整 記事内の要素はcommon/post-single.cssに記載されていたので以下のように書き換えた .post-content h2 { margin: 96px auto 24px; font-size: 32px; } .post-content h3 { margin: 32px auto; font-size: 24px; } Notes FAQs · adityatelange/hugo-PaperMod Wiki · GitHub&amp;#160;&amp;#x21a9;&amp;#xfe0e;</description>
+    </item>
+    
     <item>
       <title>Github Pagesでカスタムドメインを使う</title>
       <link>https://tryk.dev/posts/ghpages-use-customdomain/</link>

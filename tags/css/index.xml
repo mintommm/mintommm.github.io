@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>blog on tryk.dev</title>
-    <link>https://tryk.dev/tags/blog/</link>
-    <description>Recent content in blog on tryk.dev</description>
+    <title>CSS on tryk.dev</title>
+    <link>https://tryk.dev/tags/css/</link>
+    <description>Recent content in CSS on tryk.dev</description>
     <image>
       <url>https://tryk.dev/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://tryk.dev/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 05 Feb 2023 05:25:10 +0000</lastBuildDate><atom:link href="https://tryk.dev/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 05 Feb 2023 05:25:10 +0000</lastBuildDate><atom:link href="https://tryk.dev/tags/css/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hugo&#43;PaperModのCSSをカスタマイズする</title>
       <link>https://tryk.dev/posts/papermod-css-customize/</link>
@@ -17,28 +17,6 @@
       
       <guid>https://tryk.dev/posts/papermod-css-customize/</guid>
       <description>CSSの変更方法 PaperModではthemes/PaperMod/assets/css/に基本的なCSSが配置されている これらをファイル単位でオーバーライドすることによって実現する extendedフォルダを使う1ようなFAQがあるが、今回は既存のスタイル指定を変更したいので、Hugoのルートにassets/cssフォルダを作って、その中に既存のCSSファイルをコピーし、コピーで作られたCSSファイルを編集することで行った 見出しの先頭に#をつける 記事内の要素はcommon/post-single.cssに記載されていたので以下を追記した .post-content h2:before { content: &amp;#34;## &amp;#34;; } .post-content h3:before { content: &amp;#34;### &amp;#34;; } 見出しのmargin調整 記事内の要素はcommon/post-single.cssに記載されていたので以下のように書き換えた .post-content h2 { margin: 96px auto 24px; font-size: 32px; } .post-content h3 { margin: 32px auto; font-size: 24px; } Notes FAQs · adityatelange/hugo-PaperMod Wiki · GitHub&amp;#160;&amp;#x21a9;&amp;#xfe0e;</description>
-    </item>
-    
-    <item>
-      <title>Github Pagesでカスタムドメインを使う</title>
-      <link>https://tryk.dev/posts/ghpages-use-customdomain/</link>
-      <pubDate>Sun, 29 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://tryk.dev/posts/ghpages-use-customdomain/</guid>
-      <description>HugoをGithub Pagesでカスタムドメインを使うために必要な設定を追加した</description>
-    </item>
-    
-    <item>
-      <title>ブログを立ち上げた</title>
-      <link>https://tryk.dev/posts/230128_created-this-blog/</link>
-      <pubDate>Sat, 28 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://tryk.dev/posts/230128_created-this-blog/</guid>
-      <description>このブログを立ち上げた。
-記事をMarkdownで管理したかったので、Github Pagesを使って手軽に公開することにした。
-とりあえずは公開するところまで。
-Todo
-プライバシーポリシーなどの整理 プロフィールをもうちょっと充実させる テーマのカスタマイズとライセンス表記について調べる favicon類を作る 独自ドメインにする </description>
     </item>
     
   </channel>
