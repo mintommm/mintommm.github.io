@@ -9,7 +9,16 @@
       <link>https://tryk.dev/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 28 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://tryk.dev/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 29 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://tryk.dev/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Github Pagesでカスタムドメインを使う</title>
+      <link>https://tryk.dev/posts/ghpages-use-customdomain/</link>
+      <pubDate>Sun, 29 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://tryk.dev/posts/ghpages-use-customdomain/</guid>
+      <description>HugoをGithub Pagesでカスタムドメインを使うために必要な設定を追加した</description>
+    </item>
+    
     <item>
       <title>ブログを立ち上げた</title>
       <link>https://tryk.dev/posts/230128_created-this-blog/</link>
