@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Hugo on tryk.dev</title>
-    <link>https://tryk.dev/tags/hugo/</link>
-    <description>Recent content in Hugo on tryk.dev</description>
+    <title>Google Tag Manager on tryk.dev</title>
+    <link>https://tryk.dev/tags/google-tag-manager/</link>
+    <description>Recent content in Google Tag Manager on tryk.dev</description>
     <image>
       <url>https://tryk.dev/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://tryk.dev/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 25 Feb 2023 14:12:28 +0900</lastBuildDate><atom:link href="https://tryk.dev/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 25 Feb 2023 14:12:28 +0900</lastBuildDate><atom:link href="https://tryk.dev/tags/google-tag-manager/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>HugoのGoogle AnalyticsタグをGoogle Tag Managerタグに置き換える</title>
       <link>https://tryk.dev/posts/switch-ga-to-gtm-on-hugo/</link>
@@ -23,24 +23,6 @@ Hugo自体への機能追加も提案されたことがあるようだが、本�
 なので下記サイトを参考に実装していく。 How to add Google Tag Manager to Hugo static website
 実装 Partialの作成 まずは /layouts/partials に gtm.html というファイルを用意して、中身を以下のようにする。 記事で紹介されているサンプルを少々変更した。
 {{ if hugo.IsProduction }} {{ if .Site.Params.gtm_id}} {{ if .Site.Params.gtm_endpoint}} &amp;lt;link href=&amp;#39;https://{{ .Site.Params.gtm_endpoint }}&amp;#39; rel=&amp;#34;preconnect&amp;#34; crossorigin&amp;gt; &amp;lt;link rel=&amp;#34;dns-prefetch&amp;#34; href=&amp;#39;https://{{ .Site.Params.gtm_endpoint }}&amp;#39;&amp;gt; {{ else }} &amp;lt;link href=&amp;#39;https://www.googletagmanager.com&amp;#39; rel=&amp;#34;preconnect&amp;#34; crossorigin&amp;gt; &amp;lt;link rel=&amp;#34;dns-prefetch&amp;#34; href=&amp;#39;https://www.</description>
-    </item>
-    
-    <item>
-      <title>Hugo&#43;PaperModのCSSをカスタマイズする</title>
-      <link>https://tryk.dev/posts/papermod-css-customize/</link>
-      <pubDate>Sun, 05 Feb 2023 05:25:10 +0000</pubDate>
-      
-      <guid>https://tryk.dev/posts/papermod-css-customize/</guid>
-      <description>CSSの変更方法 PaperModではthemes/PaperMod/assets/css/に基本的なCSSが配置されている これらをファイル単位でオーバーライドすることによって実現する extendedフォルダを使う1ようなFAQがあるが、今回は既存のスタイル指定を変更したいので、Hugoのルートにassets/cssフォルダを作って、その中に既存のCSSファイルをコピーし、コピーで作られたCSSファイルを編集することで行った 見出しの先頭に#をつける 記事内の要素はcommon/post-single.cssに記載されていたので以下を追記した .post-content h2:before { content: &amp;#34;## &amp;#34;; } .post-content h3:before { content: &amp;#34;### &amp;#34;; } 見出しのmargin調整 記事内の要素はcommon/post-single.cssに記載されていたので以下のように書き換えた .post-content h2 { margin: 96px auto 24px; font-size: 32px; } .post-content h3 { margin: 32px auto; font-size: 24px; } Notes FAQs · adityatelange/hugo-PaperMod Wiki · GitHub&amp;#160;&amp;#x21a9;&amp;#xfe0e;</description>
-    </item>
-    
-    <item>
-      <title>Github Pagesでカスタムドメインを使う</title>
-      <link>https://tryk.dev/posts/ghpages-use-customdomain/</link>
-      <pubDate>Sun, 29 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://tryk.dev/posts/ghpages-use-customdomain/</guid>
-      <description>HugoをGithub Pagesでカスタムドメインを使うために必要な設定を追加した</description>
     </item>
     
   </channel>
