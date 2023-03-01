@@ -16,13 +16,7 @@
       <pubDate>Sat, 25 Feb 2023 14:12:28 +0900</pubDate>
       
       <guid>https://tryk.dev/posts/switch-ga-to-gtm-on-hugo/</guid>
-      <description>Hugoには組み込みのGoogle Analyticsタグ挿入機能 Hugoには組み込みのGoogle Analyticsタグ挿入機能がある。 Internal Templates | Hugo hugo/google_analytics.html at master · gohugoio/hugo · GitHub
-しかしこれはGoogle Tag Manager (GTM)の埋め込みに対応していないので、GTMを利用したい場合は別途自前で埋め込む必要がある。
-Hugoのテーマによって対応しているものがあるかもしれないが、このサイトで使っているPaperModは対応していなかった。
-Hugo自体への機能追加も提案されたことがあるようだが、本記事投稿時点では取り込まれていない。
-なので下記サイトを参考に実装していく。 How to add Google Tag Manager to Hugo static website
-実装 Partialの作成 まずは /layouts/partials に gtm.html というファイルを用意して、中身を以下のようにする。 記事で紹介されているサンプルを少々変更した。
-{{ if hugo.IsProduction }} {{ if .Site.Params.gtm_id}} {{ if .Site.Params.gtm_endpoint}} &amp;lt;link href=&amp;#39;https://{{ .Site.Params.gtm_endpoint }}&amp;#39; rel=&amp;#34;preconnect&amp;#34; crossorigin&amp;gt; &amp;lt;link rel=&amp;#34;dns-prefetch&amp;#34; href=&amp;#39;https://{{ .Site.Params.gtm_endpoint }}&amp;#39;&amp;gt; {{ else }} &amp;lt;link href=&amp;#39;https://www.googletagmanager.com&amp;#39; rel=&amp;#34;preconnect&amp;#34; crossorigin&amp;gt; &amp;lt;link rel=&amp;#34;dns-prefetch&amp;#34; href=&amp;#39;https://www.</description>
+      <description>HugoのGoogle AnalyticsタグをGoogle Tag Managerタグに置き換える方法</description>
     </item>
     
     <item>
