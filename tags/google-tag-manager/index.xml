@@ -12,10 +12,10 @@
     <lastBuildDate>Sat, 25 Feb 2023 14:12:28 +0900</lastBuildDate><atom:link href="https://tryk.dev/tags/google-tag-manager/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>HugoのGoogle AnalyticsタグをGoogle Tag Managerタグに置き換える</title>
-      <link>https://tryk.dev/posts/switch-ga-to-gtm-on-hugo/</link>
+      <link>https://tryk.dev/posts/ghpages-use-customdomain/</link>
       <pubDate>Sat, 25 Feb 2023 14:12:28 +0900</pubDate>
       
-      <guid>https://tryk.dev/posts/switch-ga-to-gtm-on-hugo/</guid>
+      <guid>https://tryk.dev/posts/ghpages-use-customdomain/</guid>
       <description>HugoのGoogle AnalyticsタグをGoogle Tag Managerタグに置き換える方法</description>
     </item>
     
