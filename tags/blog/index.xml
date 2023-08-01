@@ -22,10 +22,10 @@
     
     <item>
       <title>HugoのGoogle AnalyticsタグをGoogle Tag Managerタグに置き換える</title>
-      <link>https://tryk.dev/posts/ghpages-use-customdomain/</link>
+      <link>https://tryk.dev/posts/replace-hugo-builtin-gatag/</link>
       <pubDate>Sat, 25 Feb 2023 14:12:28 +0900</pubDate>
       
-      <guid>https://tryk.dev/posts/ghpages-use-customdomain/</guid>
+      <guid>https://tryk.dev/posts/replace-hugo-builtin-gatag/</guid>
       <description>HugoのGoogle AnalyticsタグをGoogle Tag Managerタグに置き換える方法</description>
     </item>
     
