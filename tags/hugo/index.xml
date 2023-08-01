@@ -35,8 +35,7 @@
       <pubDate>Sun, 05 Feb 2023 05:25:10 +0000</pubDate>
       
       <guid>https://tryk.dev/posts/papermod-css-customize/</guid>
-      <description>CSSの変更方法 PaperModではthemes/PaperMod/assets/css/に基本的なCSSが配置されている これらをファイル単位でオーバーライドすることによって実現する extendedフォルダを使う1ようなFAQがあるが、今回は既存のスタイル指定を変更したいので、Hugoのルートにassets/cssフォルダを作って、その中に既存のCSSファイルをコピーし、コピーで作られたCSSファイルを編集することで行った 見出しの先頭に#をつける 記事内の要素はcommon/post-single.cssに記載されていたので以下を追記した .post-content h2:before { content: &amp;#34;## &amp;#34;; } .post-content h3:before { content: &amp;#34;### &amp;#34;; } 見出しのmargin調整 記事内の要素はcommon/post-single.cssに記載されていたので以下のように書き換えた .post-content h2 { margin: 96px auto 24px; font-size: 32px; } .post-content h3 { margin: 32px auto; font-size: 24px; } 配色の変更 明暗切り替えボタンの移動 Web font導入 Google Fontsでもsrc: local を使いたいから
-@font-face { font-family: &amp;#34;Roboto&amp;#34;; src: local(&amp;#34;Roboto&amp;#34;); } @font-face { font-family: &amp;#34;Noto Sans JP&amp;#34;; src: local(&amp;#34;Noto Sans CJK JP&amp;#34;), local(&amp;#34;Noto Sans JP&amp;#34;); } を後に読まれるCSS(reset.</description>
+      <description>CSSの変更方法 PaperModではthemes/PaperMod/assets/css/に基本的なCSSが配置されている これらをファイル単</description>
     </item>
     
     <item>
