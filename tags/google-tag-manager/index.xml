@@ -4,6 +4,10 @@
     <title>Google Tag Manager on tryk.dev</title>
     <link>https://tryk.dev/tags/google-tag-manager/</link>
     <description>Recent content in Google Tag Manager on tryk.dev</description>
+    <image>
+      <url>https://tryk.dev/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://tryk.dev/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Sat, 25 Feb 2023 14:12:28 +0900</lastBuildDate><atom:link href="https://tryk.dev/tags/google-tag-manager/index.xml" rel="self" type="application/rss+xml" />
