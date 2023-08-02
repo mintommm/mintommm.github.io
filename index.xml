@@ -35,7 +35,8 @@
       <pubDate>Sun, 05 Feb 2023 05:25:10 +0000</pubDate>
       
       <guid>https://tryk.dev/posts/papermod-css-customize/</guid>
-      <description>CSSの変更方法 PaperModではthemes/PaperMod/assets/css/に基本的なCSSが配置されている これらをファイル単</description>
+      <description>CSSの変更方法 PaperModではthemes/PaperMod/assets/css/に基本的なCSSが配置されている これらをファイル単位でオーバーライドすることによって実現する extendedフォルダを使う1ようなFAQがあるが、今回は既存のスタイル指定を変更したいので、Hugoのルートにassets/cssフォルダを作って、その中に既存のCSSファイルをコピーし、コピーで作られたCSSファイルを編集することで行った 見出しの先頭に#をつける 記事内の要素はcommon/post-single.cssに記載されていたので以下を追記した .post-content h2:before { content: &amp;#34;## &amp;#34;; } .post-content h3:before { content: &amp;#34;### &amp;#34;; } 見出しのmargin調整 記事内の要素はcommon/post-single.cssに記載されていたので以下のように書き換えた .post-content h2 { margin: 96px auto 24px; font-size: 32px; } .post-content h3 { margin: 32px auto; font-size: 24px; } 配色の変更 明暗切り替えボタンの移動 Web font導入 Google Fontsでもsrc: local を使いたいから
+@font-face { font-family: &amp;#34;Roboto&amp;#34;; src: local(&amp;#34;Roboto&amp;#34;); } @font-face { font-family: &amp;#34;Noto Sans JP&amp;#34;; src: local(&amp;#34;Noto Sans CJK JP&amp;#34;), local(&amp;#34;Noto Sans JP&amp;#34;); } を後に読まれるCSS(reset.</description>
     </item>
     
     <item>
@@ -53,7 +54,11 @@
       <pubDate>Sat, 28 Jan 2023 00:00:00 +0000</pubDate>
       
       <guid>https://tryk.dev/posts/230128-created-this-blog/</guid>
-      <description>このブログを立ち上げた。 記事をMarkdownで管理したかったので、Github Pagesを使って手軽に公開することにした。 とりあえずは公開</description>
+      <description>このブログを立ち上げた。
+記事をMarkdownで管理したかったので、Github Pagesを使って手軽に公開することにした。
+とりあえずは公開するところまで。
+Todo
+プライバシーポリシーなどの整理 プロフィールをもうちょっと充実させる テーマのカスタマイズとライセンス表記について調べる favicon類を作る 独自ドメインにする </description>
     </item>
     
     
@@ -63,7 +68,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://tryk.dev/profile/</guid>
-      <description>Bio Terry K Like 寿司 Dislike タバコ Accounts Discord : mintommm Twitter : https://twitter.com/mintommm Github: https://github.com/mintommm Zenn : https://zenn.dev/mintommm Linkedin : https://www.linkedin.com/in/terrykurumatani/ Nintendo Switch : SW-1259-5233-1813 stat.ink : https://stat.ink/@mintommm/spl3</description>
+      <description>Bio Terry K Like 寿司 Dislike タバコ Accounts Discord : mintommm Twitter : https://twitter.com/mintommm Github: https://github.com/mintommm Zenn : https://zenn.dev/mintommm Linkedin : https://www.linkedin.com/in/terrykurumatani/ Nintendo Switch : SW-1259-5233-1813 stat.ink : https://stat.ink/@mintommm/spl3 </description>
     </item>
     
     <item>
@@ -72,7 +77,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://tryk.dev/terms/</guid>
-      <description>Disclamer 組織を代表しない：このブログの内容は個人の見解であり所属組織を代表しません 内容の保証はしない：内容が正確であることに努めますが正確さを保証</description>
+      <description>Disclamer 組織を代表しない：このブログの内容は個人の見解であり所属組織を代表しません 内容の保証はしない：内容が正確であることに努めますが正確さを保証しません サイト外のことに責任を負わない：リンク先の内容には責任を負いません Cookieの使用について アクセス解析や広告配信などのためにCookieを使用しています これらのCookieによって個人の識別はできません CookieをOFFにしても閲覧に問題はありません 著作権について 無断転載を禁止します 著作権の侵害は意図していないので問題があれば対応のためにご連絡ください Hugo, PaperMod このブログはHugoとPaperModをもとに作成されています Contacts 問い合わせフォーム</description>
     </item>
     
   </channel>

@@ -17,7 +17,11 @@
       <pubDate>Sat, 28 Jan 2023 00:00:00 +0000</pubDate>
       
       <guid>https://tryk.dev/posts/230128-created-this-blog/</guid>
-      <description>このブログを立ち上げた。 記事をMarkdownで管理したかったので、Github Pagesを使って手軽に公開することにした。 とりあえずは公開</description>
+      <description>このブログを立ち上げた。
+記事をMarkdownで管理したかったので、Github Pagesを使って手軽に公開することにした。
+とりあえずは公開するところまで。
+Todo
+プライバシーポリシーなどの整理 プロフィールをもうちょっと充実させる テーマのカスタマイズとライセンス表記について調べる favicon類を作る 独自ドメインにする </description>
     </item>
     
   </channel>
