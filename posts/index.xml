@@ -37,7 +37,7 @@
     <item>
       <title>Github Pagesでカスタムドメインを使う</title>
       <link>https://tryk.dev/posts/ghpages-use-customdomain/</link>
-      <pubDate>Sun, 29 Jan 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 29 Jan 2023 00:00:00 +0900</pubDate>
       
       <guid>https://tryk.dev/posts/ghpages-use-customdomain/</guid>
       <description>HugoをGithub Pagesでカスタムドメインを使うために必要な設定を追加した</description>
@@ -46,7 +46,7 @@
     <item>
       <title>ブログを立ち上げた</title>
       <link>https://tryk.dev/posts/230128-created-this-blog/</link>
-      <pubDate>Sat, 28 Jan 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 28 Jan 2023 00:00:00 +0900</pubDate>
       
       <guid>https://tryk.dev/posts/230128-created-this-blog/</guid>
       <description>このブログを立ち上げた。 記事をMarkdownで管理したかったので、Github Pagesを使って手軽に公開することにした。 とりあえずは公開</description>

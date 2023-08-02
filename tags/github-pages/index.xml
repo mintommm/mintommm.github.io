@@ -6,11 +6,11 @@
     <description>Recent content in Github Pages on tryk.dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 29 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://tryk.dev/tags/github-pages/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 29 Jan 2023 00:00:00 +0900</lastBuildDate><atom:link href="https://tryk.dev/tags/github-pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Github Pagesでカスタムドメインを使う</title>
       <link>https://tryk.dev/posts/ghpages-use-customdomain/</link>
-      <pubDate>Sun, 29 Jan 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 29 Jan 2023 00:00:00 +0900</pubDate>
       
       <guid>https://tryk.dev/posts/ghpages-use-customdomain/</guid>
       <description>HugoをGithub Pagesでカスタムドメインを使うために必要な設定を追加した</description>
