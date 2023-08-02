@@ -4,10 +4,6 @@
     <title>diary on tryk.dev</title>
     <link>https://tryk.dev/tags/diary/</link>
     <description>Recent content in diary on tryk.dev</description>
-    <image>
-      <url>https://tryk.dev/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://tryk.dev/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
-    </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Sat, 28 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://tryk.dev/tags/diary/index.xml" rel="self" type="application/rss+xml" />
